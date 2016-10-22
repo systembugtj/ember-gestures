@@ -1,5 +1,5 @@
-// jshint node:true
 /* global process */
+/* jshint node: true */
 'use strict';
 
 module.exports = {
